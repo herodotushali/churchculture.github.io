@@ -1,0 +1,4 @@
+Sitemap: https://www.churchculture.net/sitemapindex.xml
+
+User-Agent: *
+Host: www.churchculture.net
